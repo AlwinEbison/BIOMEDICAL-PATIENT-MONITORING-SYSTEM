@@ -128,7 +128,7 @@ vitals.py
 
 Open the project folder in **VS Code** or another Python editor.
 
-### Step 4: Run the Program
+### Step 3: Run the Program
 
 Open the terminal inside the project folder and run:
 
